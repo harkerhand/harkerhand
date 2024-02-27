@@ -7,3 +7,4 @@
 	<p align= "center">Where is Mountain</p>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?harkerhand=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
