@@ -1,7 +1,9 @@
-### Hi there 👋
+<link rel = "stylesheet" type= "text/css" href = "./style.css">
+
 
 <p align = "center">
-	<img scr="./logo.png" />
-	<h2 align = "center">Handsome Harker</h2>
-	<p align= "center">👉 Show me f**king code ! ! ! 👈</p>
+	<img class = "cover" width = "140" src="./logo.png" />
+	<h1 align = "center">Handsome Harker</h1>
+	<p align= "center">Where is Mountain</p>
 </p>
+
