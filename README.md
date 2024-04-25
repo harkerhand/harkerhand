@@ -3,7 +3,7 @@
 
 <p align = "center">
 	<img class = "cover" width = "140" src="./logo_circle.png"/>
-	<h1 align = "center">Handsome Harker</h1>
+	<h1 align = "center">Harker Hand</h1>
 </p>
 
 ### 👋 Hi, there
