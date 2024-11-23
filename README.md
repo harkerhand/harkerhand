@@ -12,10 +12,10 @@
 - 💖 I mostly use:
 
   
-  [![I mostly use](https://skillicons.dev/icons?i=c,cpp,java,vscode,idea)](https://skillicons.dev)
+  [![I mostly use](https://skillicons.dev/icons?i=c,cpp,rust,java,vscode,idea)](https://skillicons.dev)
 - 👻 My skills:
 
-  [![My skills](https://skillicons.dev/icons?i=js,jquery,html,css,kotlin,py,pycharm,nodejs,npm,ps,pr,ae,au,ai,notion)](https://skillicons.dev)
+  [![My skills](https://skillicons.dev/icons?i=jquery,html,css,py,nodejs,ts,ubuntu,npm,ps,pr,ae,au,ai,notion)](https://skillicons.dev)
 
 - 😍 Top Languages
 
