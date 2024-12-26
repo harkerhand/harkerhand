@@ -9,13 +9,13 @@
 ### 👋 Hi, there
 - ☔ I'm studying CS at SEU
 - 💻 I love algorithm competitions && Android development
-- 💖 I mostly use:
+- 💖 I mostly use(really):
 
   
-  [![I mostly use](https://skillicons.dev/icons?i=c,cpp,rust,java,vscode,idea)](https://skillicons.dev)
-- 👻 My skills:
+  [![I mostly use(really)](https://skillicons.dev/icons?i=c,cpp,rust,java,vscode,idea)](https://skillicons.dev)
+- 👻 My skills(maybe):
 
-  [![My skills](https://skillicons.dev/icons?i=jquery,html,css,py,nodejs,ts,ubuntu,npm,ps,pr,ae,au,ai,notion)](https://skillicons.dev)
+  [![My skills(maybe)](https://skillicons.dev/icons?i=jquery,html,css,py,nodejs,ts,ubuntu,npm,ps,pr,ae,au,ai,notion)](https://skillicons.dev)
 
 - 😍 Top Languages
 
