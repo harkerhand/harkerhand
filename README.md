@@ -12,7 +12,7 @@
 - 💖 I mostly use(really):
 
   
-  [![I mostly use(really)](https://skillicons.dev/icons?i=c,cpp,rust,java,vscode,idea)](https://skillicons.dev)
+  [![I mostly use(really)](https://skillicons.dev/icons?i=c,cpp,rust,vscode)](https://skillicons.dev)
 - 👻 My skills(maybe):
 
   [![My skills(maybe)](https://skillicons.dev/icons?i=jquery,html,css,py,nodejs,ts,ubuntu,npm,ps,pr,ae,au,ai,notion)](https://skillicons.dev)
