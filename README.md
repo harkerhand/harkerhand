@@ -15,7 +15,7 @@
   [![I mostly use(really)](https://skillicons.dev/icons?i=cpp,rust,ts)](https://skillicons.dev)
 - 👻 My skills(maybe):
 
-  [![My skills(maybe)](https://skillicons.dev/icons?i=jquery,html,css,py,nodejs,ts,ubuntu,npm,notion)](https://skillicons.dev)
+  [![My skills(maybe)](https://skillicons.dev/icons?i=jquery,html,css,py,nodejs,ubuntu,npm,notion)](https://skillicons.dev)
 
 - 😍 Top Languages
 
