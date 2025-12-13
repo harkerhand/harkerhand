@@ -27,7 +27,7 @@
 	<p align = "center">
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pile%20of%20Poo.png" alt="Pile of Poo" width="120" height="120" />
 		<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=harkerhand&theme=github-light" height="200" /> -->
-		<img src="https://skillicons.dev/icons?i=cpp,java,python,windows" width="600"  />
+		<img src="https://skillicons.dev/icons?i=cpp,java,python,windows" width="500"  />
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pile%20of%20Poo.png" alt="Pile of Poo" width="120" height="120" />
 	</p>
 </div>
