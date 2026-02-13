@@ -15,13 +15,13 @@
 </div>
 
 
-<div style="display: flex; justify-content: center;">
+<!-- <div style="display: flex; justify-content: center;">
 	<p align = "center">
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pleading%20Face.png" alt="Pleading Face" width="120" height="120" />
 		<img src="https://github-readme-stats.vercel.app/api?username=harkerhand&count_private=false&show_icons=false&theme=ambient_gradient" height="120" />
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pleading%20Face.png" alt="Pleading Face" width="120" height="120" />
 	</p>
-</div>
+</div> -->
 
 <div style="display: flex; justify-content: center;">
 	<p align = "center">
