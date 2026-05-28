@@ -2,6 +2,7 @@
 	<p style="text-align: center; white-space: nowrap;" align="center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Face%20with%20Closed%20Eyes.png" width="120" />
     <img src="https://skillicons.dev/icons?i=rust" width="160" />
+	<img src="https://skillicons.dev/icons?i=arch" width="160" />
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Face%20with%20Closed%20Eyes.png" width="120" />
 </p>
 </div>
